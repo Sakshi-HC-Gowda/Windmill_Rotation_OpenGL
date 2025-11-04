@@ -1,4 +1,5 @@
 🌬️ Windmill Rotation – Computer Graphics Project (OpenGL)
+
 📘 Overview
 
 This project demonstrates a rotating windmill using OpenGL and FreeGLUT in C++.
