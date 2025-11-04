@@ -63,7 +63,7 @@ Basic 2D graphics rendering using OpenGL pipeline
 
 📸 Project Output Screenshot
 
-
+![Windmill Output](./output.png)
 
 🧑‍💻 Author
 
