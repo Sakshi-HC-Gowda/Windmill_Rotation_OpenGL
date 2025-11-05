@@ -66,6 +66,35 @@ Basic 2D graphics rendering using OpenGL pipeline
 
 ![Windmill Output](./output.png)
 
+🌱 Learning & Development
+⚡ Challenges Faced
+
+Setting up the OpenGL + FreeGLUT environment on Windows was initially tricky due to missing library paths and configuration issues.
+
+Handling keyboard interactions smoothly while maintaining animation speed consistency required careful logic and transformation control.
+
+Designing a realistic windmill scene with balanced colors, movement, and proportions took several refinements.
+
+🧠 Lessons Learned
+
+Gained hands-on experience with OpenGL functions such as glTranslatef(), glRotatef(), and glutKeyboardFunc().
+
+Understood how event-driven rendering and animation loops work in graphical programming.
+
+Learned the importance of proper library linking and path management while setting up graphics projects in C++.
+
+🚀 Future Features / Roadmap
+
+Add smooth speed control using + and - keys to increase or decrease rotation speed.
+
+Implement mouse-based controls for interactive rotation.
+
+Introduce more 3D elements like a rotating camera, trees, or moving clouds for an enhanced visual experience.
+
+Add sound effects (wind whoosh or clicking sounds) for realism.
+
+Convert the project into a 3D OpenGL scene in future versions.
+
 🧑‍💻 Author
 
 Sakshi H. C. Gowda
